@@ -1,4 +1,4 @@
-# GetNCEI,  a Module to Retrieve NCDC's NCEI Climate Data
+# GetNCEI,  a Python Module to Retrieve NCDC's NCEI Climate Data
 
 I developed a python module, named GetNCEI, with several functions to provide an easier approach for digging into *Climate Data Online* managed by *The United States National Climatic Data Center* (NCDC). 
 
