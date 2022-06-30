@@ -16,4 +16,4 @@ GetNCEI Documentation.html has a detailed information about the basic of NCEI da
 
 The code is stored in [getncei.py](https://github.com/nbarizki/getncei/blob/main/getncei.py)
 
-Proceed to the documentation [here](https://github.com/nbarizki/getncei/blob/main/GetNCEI_documentation_v1.ipynb) or download the html  file (for better image render) [here.](https://github.com/nbarizki/getncei/GetNCEI_Documentation_v1.html) 
+Proceed to the documentation [here](https://github.com/nbarizki/getncei/blob/main/GetNCEI_documentation_v1.ipynb) or download the html  file (for better image render) [here.](https://github.com/nbarizki/getncei/blob/main/GetNCEI_Documentation_v1.html) 
