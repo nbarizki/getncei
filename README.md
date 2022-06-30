@@ -14,4 +14,4 @@ GetNCEI is developed to make requests using Class Objects and each of object's o
 
 GetNCEI Documentation.html has a detailed information about the basic of NCEI data request, the objects and methods, and How-To section to show an example of working on a data gathering scenario utilizing GetNCEI.
 
-Proceed to the documentation [here] (/GetNCEI Documentation_v1.html).
+Proceed to the documentation [here](GetNCEI Documentation_v1.html).
