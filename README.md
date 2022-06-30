@@ -10,10 +10,10 @@ NCDC's Climate Data Online (CDO) offers web services that provide access to curr
 
 # Discover GetNCEI
 
-GetNCEI is developed to make requests using Class Objects and each of object's own methods. Although the function and output are not in a fully-cooked form, it is purposed to enable a flexible processing at a later stage of data processing.
+GetNCEI is developed to make requests using Class Objects and each of object's own methods. Although the function and output are not in a fully-cooked form, it is purposed to enable a flexible processing if any recursive process needed or useful at a later stage of data processing.
 
 GetNCEI Documentation.html has a detailed information about the basic of NCEI data request, the objects and methods, and How-To section to show an example of working on a data gathering scenario utilizing GetNCEI.
 
-The code is stored in [getncei.py](https://github.com/nbarizki/getncei/getncei.py)
+The code is stored in [getncei.py](https://github.com/nbarizki/getncei/blob/main/getncei.py)
 
-Proceed to the documentation [here.](https://github.com/nbarizki/getncei/GetNCEI_Documentation_v1.html)
+Proceed to the documentation [here](https://github.com/nbarizki/getncei/blob/main/GetNCEI_documentation_v1.ipynb) or download the html  file (for better image render) [here.](https://github.com/nbarizki/getncei/GetNCEI_Documentation_v1.html) 
